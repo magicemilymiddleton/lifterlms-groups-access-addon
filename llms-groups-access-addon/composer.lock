@@ -1,0 +1,17 @@
+{
+    "_readme": [
+        "README",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "39a8eacf1aa7458d9317e40e8995bd8c",
+    "packages": [],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {},
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {},
+    "platform-dev": {},
+    "plugin-api-version": "2.6.0"
+}
